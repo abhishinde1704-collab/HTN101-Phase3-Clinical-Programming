@@ -1,0 +1,60 @@
+# ==========================================
+# HTN101-301 Clinical Programming Project
+# ==========================================
+
+# ---------- Operating System ----------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------- IDE / Editors ----------
+.vscode/
+.idea/
+
+# ---------- R ----------
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# ---------- SAS temporary files ----------
+*.sas7bcat
+*.lck
+*.tmp
+*.temp
+*.bak
+
+# ---------- SAS WORK ----------
+work/
+WORK/
+
+# ---------- Temporary Excel files ----------
+~$*.xlsx
+~$*.xls
+~$*.docx
+
+# ---------- Python temporary files ----------
+__pycache__/
+*.py[cod]
+
+# ---------- R Markdown generated files ----------
+*.html
+*.nb.html
+
+# ---------- Logs ----------
+logs/*.log
+
+# ---------- Temporary folders ----------
+temp/
+tmp/
+cache/
+
+# ---------- Credentials / secrets ----------
+.env
+.env.*
+*.pem
+*.key
+
+# ---------- Local configuration ----------
+config.local.*
+settings.local.*
